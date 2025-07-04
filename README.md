@@ -1,4 +1,4 @@
-# practice-github-mcp
+# github-mcp-server-test
 
 이 저장소는 GitHub MCP 서버의 사용을 연습하고 시연하기 위한 것입니다.
 
