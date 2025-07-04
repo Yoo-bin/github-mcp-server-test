@@ -1,24 +1,24 @@
 # practice-github-mcp
 
-This repository is for practicing and demonstrating the use of the GitHub MCP Server.
+이 저장소는 GitHub MCP 서버의 사용을 연습하고 시연하기 위한 것입니다.
 
-## GitHub MCP Server
+## GitHub MCP 서버
 
-The GitHub MCP Server is a tool that allows AI assistants and other tools to interact with GitHub's features in a structured way. It acts as a bridge between an AI (like GitHub Copilot) and your GitHub account, enabling the AI to perform actions on your behalf.
+GitHub MCP 서버는 AI 어시스턴트 및 기타 도구가 GitHub의 기능과 구조화된 방식으로 상호 작용할 수 있도록 하는 도구입니다. 이는 AI(예: GitHub Copilot)와 GitHub 계정 간의 다리 역할을 하여 AI가 사용자를 대신하여 작업을 수행할 수 있도록 합니다.
 
-### Key Features
+### 주요 기능
 
-*   **Repository Management**: Create and manage repositories.
-*   **File Operations**: Read and modify files.
-*   **Branching**: Create and manage branches.
-*   **Search**: Search for repositories.
-*   **Issues and Pull Requests**: Interact with issues and pull requests.
+*   **저장소 관리**: 저장소를 생성하고 관리합니다.
+*   **파일 작업**: 파일을 읽고 수정합니다.
+*   **브랜치 관리**: 브랜치를 생성하고 관리합니다.
+*   **검색**: 저장소를 검색합니다.
+*   **이슈 및 Pull Request**: 이슈 및 Pull Request와 상호 작용합니다.
 
-### Usage
+### 사용법
 
-The GitHub MCP Server can be used in two ways:
+GitHub MCP 서버는 두 가지 방법으로 사용할 수 있습니다:
 
-*   **Local Server**: Run the server on your own machine for more control over the configuration.
-*   **Remote Server**: Use the GitHub-hosted remote version for easy setup.
+*   **로컬 서버**: 구성에 대한 더 많은 제어를 위해 자신의 머신에서 서버를 실행합니다.
+*   **원격 서버**: 쉬운 설정을 위해 GitHub에서 호스팅하는 원격 버전을 사용합니다.
 
-To use the server, you need to create a GitHub Personal Access Token (PAT) to grant the necessary permissions.
+서버를 사용하려면 필요한 권한을 부여하기 위해 GitHub 개인 액세스 토큰(PAT)을 생성해야 합니다.
